@@ -26,7 +26,7 @@
 # for i in range(3,12, 2):                
 #     print("a".upper())
 
-# for i in range(3,12,13):               
+# for i in range(3,12,2):               
 #     print("a".upper)
 
 # s='Welcome to My Site https://nayaksworld.com '              
@@ -76,19 +76,19 @@
 # for i in range(2,5,2):
 #            print(i * '@')
 
-# >>> 'h' in 'Hindi'
-# >>>'i' in 'Hindi'
+# 'h' in 'Hindi'
+# 'i' in 'Hindi'
 
 # for i in "Amit":
 #     print(i in "Amit")
 
-# >>>"string" in "substring"
-# >>>"string" not in "substring"
+#"string" in "substring"
+#"string" not in "substring"
 
 
-# >>>'tie' == 'ties'
-# >>>"Amit" != "Amitabh"
-# >>>"amit" > "Amitabh"
+#'tie' == 'ties'
+#"Amit" != "Amitabh"
+#"amit" > "Amitabh"
 
 
 # S = "Welcome to my Blog"
@@ -97,9 +97,9 @@
 # print(S[-2 : ]) 
 # print(S[-10 : -2 : 2])
 
-# >>str1 = "Anita"
-# >>>str1[1]  = 'm'
-# >>>print(str1)
+#str1 = "Anita"
+#str1[1]  = 'm'
+#print(str1)
 
 
 # str1= "Amit"str1

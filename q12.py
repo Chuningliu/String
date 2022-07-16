@@ -1,3 +1,4 @@
+
 # 94. Write the output of the following:
 a = "Mummy?Papa?Brother?Sister?Uncle" 
 print(a.split())
